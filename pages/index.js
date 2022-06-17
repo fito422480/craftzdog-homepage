@@ -113,7 +113,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2015</BioYear>
-          Me gradué de la Universidad Católica "Nuestra Señora de la Asunción"
+          Me gradue de la Universidad Catolica "Nuestra Señora de la Asunción"
           en Analisis de Sistemas.
         </BioSection>
         {/* <BioSection>
